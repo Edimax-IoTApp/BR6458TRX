@@ -31,15 +31,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.edimax.sensors</string>
+				<string>com.edimax.anytest</string>
 				<key>bundle-version</key>
 				<string>0.0.19(20240402)</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Gosensor</string>
+				<string>BR6458TRX</string>
 				<key>title</key>
-				<string>Gosensor</string>
+				<string>BR6458TRX</string>
 			</dict>
 		</dict>
 	</array>
